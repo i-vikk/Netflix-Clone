@@ -1,0 +1,10 @@
+.nav {
+  position: fixed;
+  top: 0;
+  display: flex;
+}
+
+.nav__logo {
+  width: 1px;
+  object-fit: contain;
+}
